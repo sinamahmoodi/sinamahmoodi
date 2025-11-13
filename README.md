@@ -16,17 +16,70 @@
 
 ---
 
-### ⚙️ Tech Stack
-<div align="center">
+### ⚙️ Tech Stack (Honeycomb 🐝)
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
-| | | | |
-|:--:|:--:|:--:|:--:|
-| <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" alt="JavaScript" /> | <img src="https://cdn.simpleicons.org/typescript/3178C6" width="50" alt="TypeScript" /> | <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" alt="React" /> | <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" alt="TailwindCSS" /> |
-| <img src="https://cdn.simpleicons.org/html5/E34F26" width="50" alt="HTML5" /> | <img src="https://cdn.simpleicons.org/css3/1572B6" width="50" alt="CSS3" /> | <img src="https://cdn.simpleicons.org/git/F05032" width="50" alt="Git" /> | <img src="https://cdn.simpleicons.org/github/181717" width="50" alt="GitHub" /> |
-| <img src="https://cdn.simpleicons.org/vite/646CFF" width="50" alt="Vite" /> | <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="50" alt="VSCode" /> | <img src="https://cdn.simpleicons.org/npm/CB3837" width="50" alt="npm" /> | <img src="https://cdn.simpleicons.org/eslint/4B32C3" width="50" alt="ESLint" /> |
+  <!-- JavaScript -->
+  <div style="background:#F7DF1E; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="40" alt="JavaScript"/>
+  </div>
+
+  <!-- TypeScript -->
+  <div style="background:#3178C6; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" width="40" alt="TypeScript"/>
+  </div>
+
+  <!-- React -->
+  <div style="background:#61DAFB; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="40" alt="React"/>
+  </div>
+
+  <!-- TailwindCSS -->
+  <div style="background:#06B6D4; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="40" alt="TailwindCSS"/>
+  </div>
+
+  <!-- HTML5 -->
+  <div style="background:#E34F26; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="40" alt="HTML5"/>
+  </div>
+
+  <!-- CSS3 -->
+  <div style="background:#1572B6; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="40" alt="CSS3"/>
+  </div>
+
+  <!-- Git -->
+  <div style="background:#F05032; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="40" alt="Git"/>
+  </div>
+
+  <!-- GitHub -->
+  <div style="background:#181717; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" alt="GitHub"/>
+  </div>
+
+  <!-- Vite -->
+  <div style="background:#646CFF; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vite.svg" width="40" alt="Vite"/>
+  </div>
+
+  <!-- VSCode -->
+  <div style="background:#007ACC; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="40" alt="VSCode"/>
+  </div>
+
+  <!-- npm -->
+  <div style="background:#CB3837; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/npm.svg" width="40" alt="npm"/>
+  </div>
+
+  <!-- ESLint -->
+  <div style="background:#4B32C3; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/eslint.svg" width="40" alt="ESLint"/>
+  </div>
 
 </div>
-
 ---
 
 ### 🚀 Currently Exploring
