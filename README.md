@@ -16,7 +16,7 @@
 
 ---
 
-### ⚙️ Tech Stack (Honeycomb 🐝)
+### ⚙️ Tech Stack
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
   <!-- JavaScript -->
