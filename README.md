@@ -17,69 +17,41 @@
 ---
 
 ### ⚙️ Tech Stack
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-
+<p align="center">
   <!-- JavaScript -->
-  <div style=" padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="40" alt="JavaScript"/>
-  </div>
+  <svg width="100" height="115" viewBox="0 0 100 115" xmlns="http://www.w3.org/2000/svg" style="margin:8px;">
+    <!-- hexagon -->
+    <polygon points="50,5 95,28 95,86 50,109 5,86 5,28"
+             fill="#f7df1e" stroke="#000" stroke-width="2"/>
+    <!-- icon (external SVG) -->
+    <image href="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg"
+           x="22" y="34" width="56" height="56" preserveAspectRatio="xMidYMid meet"/>
+  </svg>
 
   <!-- TypeScript -->
-  <div style="background:#3178C6; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" width="40" alt="TypeScript"/>
-  </div>
+  <svg width="100" height="115" viewBox="0 0 100 115" xmlns="http://www.w3.org/2000/svg" style="margin:8px;">
+    <polygon points="50,5 95,28 95,86 50,109 5,86 5,28"
+             fill="#3178C6" stroke="#000" stroke-width="2"/>
+    <image href="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg"
+           x="18" y="30" width="64" height="64" preserveAspectRatio="xMidYMid meet"/>
+  </svg>
 
   <!-- React -->
-  <div style="background:#61DAFB; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="40" alt="React"/>
-  </div>
+  <svg width="100" height="115" viewBox="0 0 100 115" xmlns="http://www.w3.org/2000/svg" style="margin:8px;">
+    <polygon points="50,5 95,28 95,86 50,109 5,86 5,28"
+             fill="#61DAFB" stroke="#000" stroke-width="2"/>
+    <image href="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg"
+           x="22" y="30" width="56" height="56" preserveAspectRatio="xMidYMid meet"/>
+  </svg>
 
-  <!-- TailwindCSS -->
-  <div style="background:#06B6D4; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="40" alt="TailwindCSS"/>
-  </div>
-
-  <!-- HTML5 -->
-  <div style="background:#E34F26; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="40" alt="HTML5"/>
-  </div>
-
-  <!-- CSS3 -->
-  <div style="background:#1572B6; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="40" alt="CSS3"/>
-  </div>
-
-  <!-- Git -->
-  <div style="background:#F05032; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="40" alt="Git"/>
-  </div>
-
-  <!-- GitHub -->
-  <div style="background:#181717; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" alt="GitHub"/>
-  </div>
-
-  <!-- Vite -->
-  <div style="background:#646CFF; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vite.svg" width="40" alt="Vite"/>
-  </div>
-
-  <!-- VSCode -->
-  <div style="background:#007ACC; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="40" alt="VSCode"/>
-  </div>
-
-  <!-- npm -->
-  <div style="background:#CB3837; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/npm.svg" width="40" alt="npm"/>
-  </div>
-
-  <!-- ESLint -->
-  <div style="background:#4B32C3; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/eslint.svg" width="40" alt="ESLint"/>
-  </div>
-
-</div>
+  <!-- Tailwind -->
+  <svg width="100" height="115" viewBox="0 0 100 115" xmlns="http://www.w3.org/2000/svg" style="margin:8px;">
+    <polygon points="50,5 95,28 95,86 50,109 5,86 5,28"
+             fill="#06B6D4" stroke="#000" stroke-width="2"/>
+    <image href="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg"
+           x="22" y="30" width="56" height="56" preserveAspectRatio="xMidYMid meet"/>
+  </svg>
+</p>
 ---
 
 ### 🚀 Currently Exploring
