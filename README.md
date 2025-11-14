@@ -20,7 +20,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
   <!-- JavaScript -->
-  <div style=" border-color:#F7DF1E; padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
+  <div style=" padding:15px; border-radius:20%; width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="40" alt="JavaScript"/>
   </div>
 
