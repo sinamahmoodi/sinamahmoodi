@@ -17,7 +17,7 @@
 ---
 
 ### ⚙️ Tech Stack
-<p align="center">
+<div align="center">
   <!-- JavaScript -->
   <svg width="100" height="115" viewBox="0 0 100 115" xmlns="http://www.w3.org/2000/svg" style="margin:8px;">
     <!-- hexagon -->
@@ -51,7 +51,7 @@
     <image href="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg"
            x="22" y="30" width="56" height="56" preserveAspectRatio="xMidYMid meet"/>
   </svg>
-</p>
+</div>
 ---
 
 ### 🚀 Currently Exploring
