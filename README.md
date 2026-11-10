@@ -32,8 +32,8 @@ I have professional experience building React applications and reusable UI syste
 ## 📊 GitHub activity
 
 <p>
-  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
-  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" />
+  <img height="170" src="https://raw.githubusercontent.com/sinamahmoodi/sinamahmoodi/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/sinamahmoodi/sinamahmoodi/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" />
 </p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinamahmoodi&hide_border=true&theme=default" alt="GitHub streak" />
