@@ -1,88 +1,48 @@
-<h1 align="center">Hey there 👋, I'm Sina Mahmoodi</h1>
+# Hi, I'm Sina Mahmoodi 👋
 
-<p align="center">
-  <b>Front-End Developer</b> passionate about building elegant, responsive, and user-friendly web applications.<br/>
-  Currently on my journey from <b>Junior → Mid-Level</b> 🚀
+**Front-End Engineer** building thoughtful, reliable web experiences with React, TypeScript, and Next.js.
+
+I have professional experience building React applications and reusable UI systems, from internal dashboards and enterprise admin tools to a subscription marketplace.
+
+## 🛠 Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,html,css,tailwind,redux&perline=8" alt="Frontend skills" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,gitlab,github,figma&perline=8" alt="Tools" />
 </p>
 
----
+## 🚀 Selected work
 
-### 💫 About Me
-- 🌱 Currently focusing on **React**, **TypeScript**, and modern front-end architecture.  
-- 🎨 Exploring **TailwindCSS** for scalable and clean UI design.  
-- 🧠 Interested in design systems, accessibility, and code quality.  
-- 🛠️ Turning ideas into delightful digital experiences.  
-- 🎯 Goal: Becoming a strong, creative **Mid-Level Front-End Engineer**.
+- **[SafeSub](https://safesub.ir/)**: a subscription marketplace for digital services (Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Django REST Framework)
+- **SafeSub Admin Panel**: an admin dashboard for products, orders, users and financial reports, with a Persian RTL interface and Jalali dates (Next.js, TypeScript, Tailwind CSS)
+- **Cheque Management System**: an enterprise admin application for cheque workflows and financial reporting (React, TypeScript, React Query, Ant Design)
 
----
+## 🏢 Experience
 
-### ⚙️ Tech Stack
-<div align="center">
-  <!-- JavaScript -->
-  <svg width="100" height="115" viewBox="0 0 100 115" xmlns="http://www.w3.org/2000/svg" style="margin:8px;">
-    <!-- hexagon -->
-    <polygon points="50,5 95,28 95,86 50,109 5,86 5,28"
-             fill="#f7df1e" stroke="#000" stroke-width="2"/>
-    <!-- icon (external SVG) -->
-    <image href="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg"
-           x="22" y="34" width="56" height="56" preserveAspectRatio="xMidYMid meet"/>
-  </svg>
+- Junior React Developer, **Chargoon**
+- Junior React Developer, **Hooshmand Sepehr**
 
-  <!-- TypeScript -->
-  <svg width="100" height="115" viewBox="0 0 100 115" xmlns="http://www.w3.org/2000/svg" style="margin:8px;">
-    <polygon points="50,5 95,28 95,86 50,109 5,86 5,28"
-             fill="#3178C6" stroke="#000" stroke-width="2"/>
-    <image href="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg"
-           x="18" y="30" width="64" height="64" preserveAspectRatio="xMidYMid meet"/>
-  </svg>
+## 📊 GitHub activity
 
-  <!-- React -->
-  <svg width="100" height="115" viewBox="0 0 100 115" xmlns="http://www.w3.org/2000/svg" style="margin:8px;">
-    <polygon points="50,5 95,28 95,86 50,109 5,86 5,28"
-             fill="#61DAFB" stroke="#000" stroke-width="2"/>
-    <image href="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg"
-           x="22" y="30" width="56" height="56" preserveAspectRatio="xMidYMid meet"/>
-  </svg>
-
-  <!-- Tailwind -->
-  <svg width="100" height="115" viewBox="0 0 100 115" xmlns="http://www.w3.org/2000/svg" style="margin:8px;">
-    <polygon points="50,5 95,28 95,86 50,109 5,86 5,28"
-             fill="#06B6D4" stroke="#000" stroke-width="2"/>
-    <image href="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg"
-           x="22" y="30" width="56" height="56" preserveAspectRatio="xMidYMid meet"/>
-  </svg>
-</div>
----
-
-### 🚀 Currently Exploring
-- ⚡ Advanced **React Patterns** & custom hooks.  
-- 🎨 **TailwindCSS Components** and UI kits for scalability.  
-- 🧩 Type-safe front-end architecture with TypeScript.  
-- ⚙️ **Framer Motion** for micro animations & better UX.  
-- 📦 Setting up **Vite + React** environments efficiently.  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinamahmoodi&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinamahmoodi&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&hide_border=true&theme=default" alt="GitHub streak" />
+</p>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&hide_border=true&theme=minimal" alt="Contribution graph" />
 </p>
 
----
+## 📫 Get in touch
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sina-mahmoudi-1126b1308" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sinamahmoodi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  💡 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-</p>
+- Website: [sinamahmoodi.ir](https://www.sinamahmoodi.ir)
+- Email: mahmodi.sina.s@gmail.com
