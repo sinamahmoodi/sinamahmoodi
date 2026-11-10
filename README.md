@@ -4,20 +4,23 @@
 
 I have professional experience building React applications and reusable UI systems, from internal dashboards and enterprise admin tools to a subscription marketplace.
 
-## 🛠 Skills
+<h2>🛠 Skills</h2>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,html,css,tailwind,redux&perline=8" alt="Frontend skills" />
 </p>
-<p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
   <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
 </p>
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,gitlab,github,figma&perline=8" alt="Tools" />
 </p>
 
+</div>
 ## 🚀 Selected work
 
 - **[SafeSub](https://safesub.ir/)**: a subscription marketplace for digital services (Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Django REST Framework)
@@ -31,13 +34,19 @@ I have professional experience building React applications and reusable UI syste
 
 ## 📊 GitHub activity
 
-<p>
+<div align="center">
+
+<h2>📊 GitHub activity</h2>
+
+<p align="center">
   <img height="170" src="https://raw.githubusercontent.com/sinamahmoodi/sinamahmoodi/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
   <img height="170" src="https://raw.githubusercontent.com/sinamahmoodi/sinamahmoodi/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" />
 </p>
-<p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinamahmoodi&hide_border=true&theme=default" alt="GitHub streak" />
 </p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinamahmoodi/sinamahmoodi/output/github-snake-dark.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/sinamahmoodi/sinamahmoodi/output/github-snake.svg" />
