@@ -38,9 +38,10 @@ I have professional experience building React applications and reusable UI syste
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinamahmoodi&hide_border=true&theme=default" alt="GitHub streak" />
 </p>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinamahmoodi&hide_border=true&theme=minimal" alt="Contribution graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinamahmoodi/sinamahmoodi/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sinamahmoodi/sinamahmoodi/output/github-snake.svg" />
+</picture>
 
 ## 📫 Get in touch
 
