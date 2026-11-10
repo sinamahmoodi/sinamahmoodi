@@ -32,14 +32,14 @@ I have professional experience building React applications and reusable UI syste
 ## 📊 GitHub activity
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sinamahmoodi&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinamahmoodi&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&hide_border=true&theme=default" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinamahmoodi&hide_border=true&theme=default" alt="GitHub streak" />
 </p>
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&hide_border=true&theme=minimal" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinamahmoodi&hide_border=true&theme=minimal" alt="Contribution graph" />
 </p>
 
 ## 📫 Get in touch
